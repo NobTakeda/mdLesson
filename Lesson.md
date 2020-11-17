@@ -22,7 +22,8 @@ public class hoge{
 
 > これは引用です  
 > 引用
->> 引用の引用
+>> 引用の引用  
+
 
 *,-,_どれかを３つ並べると水平線となる。  
 ***
@@ -39,7 +40,7 @@ ___
 
 < />で囲むとリンクになる
 <htpps://www.google.co.jp/>  
-[](/)で[]の文字にリンク埋め込み  
+[ ]( /)で[]の文字にリンク埋め込み  
 [google](https://www.google.co.jp/)
 
 強調表示  
@@ -47,5 +48,11 @@ ___
 
 !(https://joytas.net/php/man.jpg)  
 ![画像](https://joytas.net/php/man.jpg)  
+持ち込みの画像はIssueにドラッグ＆ドロップ  
+![float1](https://user-images.githubusercontent.com/73978266/99324913-89726080-28b8-11eb-92b0-dca7bfcffeac.jpg)  
+<img src=https://user-images.githubusercontent.com/73978266/99324913-89726080-28b8-11eb-92b0-dca7bfcffeac.jpg width="100">
 
-
+| 左揃え | 中央揃え | 右揃え |
+|:---|:---:|---:|
+|1 |2 |3 |
+|4 |5 |6 |
